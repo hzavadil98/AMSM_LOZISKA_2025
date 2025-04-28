@@ -2,6 +2,8 @@
 
 ![Diag](Ball-Bear-Chal-3.png)
 
+Pro stažení dat využijte jupyter notebook `data_loading.ipynb` s Google Colab.
+
 # Group of Applied Mathematics &amp; Stochastics
 **(Katedra matematiky FJFI ČVUT &amp; NDT laboratoř ÚT AV ČR, v.v.i.)** \
 hledá AMSM talenty na zpracování dat a aplikace STROJOVÉHO UČENÍ
