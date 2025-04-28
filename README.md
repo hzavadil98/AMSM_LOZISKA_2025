@@ -1,6 +1,6 @@
 # Ball bearing predictive AI challenge aneb ‚NALOŽ MU TO‘
 
-![](Ball-Bear-Chall-3.png)
+![Diag](Ball-Bear-Chall-3.png)
 
 # Group of Applied Mathematics &amp; Stochastics
 **(Katedra matematiky FJFI ČVUT &amp; NDT laboratoř ÚT AV ČR, v.v.i.)** \
