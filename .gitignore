@@ -1,3 +1,11 @@
 evaluation_data.pkl
 student_data.pkl
 data_preparation.ipynb
+
+# PDF evaluation files
+evaluation_mp1.pdf
+evaluation_mp2.pdf
+
+# Prediction text files
+prusek_michal_predictions_1.txt
+prusek_michal_predictions_2.txt
